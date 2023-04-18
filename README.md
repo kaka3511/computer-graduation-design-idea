@@ -1,4 +1,4 @@
-# computer-graduation-design-idea
+# 计算机毕业设计
 计算机毕业设计
 介绍
 计算机毕业设计
